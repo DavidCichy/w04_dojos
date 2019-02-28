@@ -41,4 +41,5 @@ def main():
     
     print("{} {}".format(output, output_system))
 
-main()
+if __name__ == "__main__":
+    main()
