@@ -9,6 +9,8 @@ def binary_to_decimal(number):
         print(a)
     return sum_total
 
+    
+
 
 def decimal_to_binary(number):
 
